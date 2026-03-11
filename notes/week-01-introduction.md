@@ -20,3 +20,19 @@ Next focus:
 Continue Module 1 and learn more about
 how the internet works and how clients
 communicate with servers.
+
+
+
+## Meta Backend – Day 2 Reflection 2026-03-11
+
+Completed videos on:
+
+- How the internet works
+- What a web server is
+
+Key concept:
+Clients send requests to web servers, and servers send responses back.
+
+Basic architecture:
+
+Client → Server → Response
