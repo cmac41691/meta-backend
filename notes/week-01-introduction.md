@@ -36,3 +36,25 @@ Clients send requests to web servers, and servers send responses back.
 Basic architecture:
 
 Client → Server → Response
+
+
+
+
+## Meta Backend – Day 3 Reflection 2026-03-12
+
+Completed:
+
+- Websites and webpages
+- Web browser
+- Web hosting
+- Knowledge check
+
+Score:
+88% on second attempt.
+
+Key concept:
+Browsers send requests to web servers and render the responses they receive.
+
+Architecture reminder:
+
+Client → Server → Response    
