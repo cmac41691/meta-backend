@@ -58,3 +58,19 @@ Browsers send requests to web servers and render the responses they receive.
 Architecture reminder:
 
 Client → Server → Response    
+
+## Meta Backend – Day 4 Reflection 2026-03-13
+
+Started Core Internet Technologies section.
+
+Key ideas:
+
+Internet protocols define the rules that allow computers
+to communicate across networks.
+
+HTTP is the protocol used by browsers and web servers
+to exchange requests and responses.
+
+Architecture reminder:
+
+Browser → HTTP Request → Server → HTTP Response
