@@ -74,3 +74,24 @@ to exchange requests and responses.
 Architecture reminder:
 
 Browser → HTTP Request → Server → HTTP Response
+
+## Meta Backend – Day 5 Reflection 2026-03-14
+
+Completed:
+
+- HTTP examples
+- From Request to Response dialogue
+- Knowledge Check – The Web and the Internet
+
+Score:
+85.71% on second attempt.
+
+Key concept:
+HTTP enables communication between browsers and servers
+through request and response messages.
+
+Architecture reminder:
+
+Browser → HTTP Request → Server → HTTP Response
+
+
