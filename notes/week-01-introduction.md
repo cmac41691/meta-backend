@@ -95,3 +95,23 @@ Architecture reminder:
 Browser → HTTP Request → Server → HTTP Response
 
 
+## Meta Backend – Day 6 Reflection 2026-03-15
+
+Completed:
+
+- Developer tools
+- Examining webpages with browser DevTools
+- Editing webpages using DevTools
+- Frameworks and libraries
+- APIs and services
+- IDE and development environments
+- Knowledge check for core internet technologies
+
+Key concept:
+
+Developer tools allow developers to inspect and debug webpages.
+APIs allow applications to communicate with servers using HTTP.
+
+Architecture reminder:
+
+Browser → HTTP Request → Server → HTTP Response
