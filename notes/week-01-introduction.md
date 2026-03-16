@@ -115,3 +115,22 @@ APIs allow applications to communicate with servers using HTTP.
 Architecture reminder:
 
 Browser → HTTP Request → Server → HTTP Response
+
+## Meta Backend – Day 7 Reflection 2026-03-16
+
+Completed Module 1: Get started with Web Development.
+
+Quiz results:
+70% first attempt
+100% second attempt
+
+Key concepts learned: 
+
+- Browsers communicate with servers using HTTP.
+- Web servers process requests and return responses.
+- Front-end handles the user interface.
+- Back-end handles server logic, APIs, and databases.
+
+Architecture reminder:
+
+Client → HTTP Request → Server → HTTP Response
