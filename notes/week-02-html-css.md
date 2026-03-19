@@ -92,3 +92,44 @@ Backend servers handle these requests and return the requested resources.
 
 Request → Server → Resource (HTML/Image) → Browser Rendering
 
+
+# Week 02 – Introduction to HTML and CSS
+
+## Date
+
+2026-03-19
+
+## Topics Covered
+
+* HTML tables
+* Forms
+* DOM introduction
+* Web accessibility
+
+## Key Notes
+
+Tables are used to display structured data:
+
+* `<table>` → container
+* `<tr>` → row
+* `<td>` → cell
+
+Forms collect user input:
+
+* `<form>` → container for input
+* `<input>` → user data field
+
+Forms send data to the server for processing.
+
+User → Form → Request → Server → Response → Browser Rendering
+
+The DOM (Document Object Model) represents the HTML document as a tree structure.
+
+JavaScript can interact with the DOM to update content dynamically.
+
+Web accessibility ensures websites are usable for all users.
+
+## Progress
+
+* Completed knowledge check (first attempt: 80%)   
+* Identified gaps for review and improvement
