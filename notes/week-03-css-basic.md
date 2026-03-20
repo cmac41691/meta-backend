@@ -35,3 +35,44 @@ CSS controls visual presentation, not structure.
 
 HTML → structure
 CSS → styling
+
+
+# Week 03 – CSS Basics
+
+---
+
+## 📅 2026-03-20
+
+### 📚 Topics Covered
+- Selecting and styling
+- CSS selectors
+- Text and color
+- Box model
+
+### 🔄 System Flow
+Client → Request → Server → HTML Response  
+Browser → DOM → CSS Applied → UI Rendered  
+
+### 🧠 Key Notes
+...
+
+### 🎯 Why This Matters
+...
+
+### 🧠 Reflection
+...
+
+---
+
+## 📅 2026-03-21  (tomorrow)
+
+### 📚 Topics Covered
+- Block vs inline
+- Alignment basics
+- Knowledge check
+- Styling assignment
+
+### 🧠 Key Notes
+(you’ll fill this tomorrow)    
+
+---
