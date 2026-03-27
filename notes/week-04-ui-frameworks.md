@@ -74,3 +74,12 @@ Bootstrap separates:
 
 This allows backend systems to send clean HTML  
 and rely on frameworks for presentation
+
+
+## 2026-03-27 (Friday)
+(Self Review + Bootstrap Components intro)
+# TLDR Notes
+- Reviewed Bootstrap grid concepts (container → row → column)
+- Reinforced responsive behavior (col-12, col-lg-6)
+- Introduced Bootstrap components (buttons, cards, basic UI elements)
+- Learned that Bootstrap provides prebuilt styled elements to speed up development
