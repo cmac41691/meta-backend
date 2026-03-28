@@ -83,3 +83,35 @@ and rely on frameworks for presentation
 - Reinforced responsive behavior (col-12, col-lg-6)
 - Introduced Bootstrap components (buttons, cards, basic UI elements)
 - Learned that Bootstrap provides prebuilt styled elements to speed up development
+
+
+## 2026-03-28
+
+### Completed
+
+- ✅ Working with Bootstrap components (Lab)
+- ✅ Self review: Working with Bootstrap components (Practice Assignment – 100%)
+- ✅ Using Bootstrap documentation (Reading)
+- ✅ Other CSS frameworks and libraries (Reading)
+
+---
+
+### Key Takeaways
+
+- Bootstrap provides prebuilt components using classes (e.g. `alert`, `badge`, `btn`)
+- Grid system uses:
+  - `row` → container
+  - `col-*` → layout columns
+- Components added in lab:
+  - Alert → for notifications
+  - Badge → for highlighting "New"
+  - Button → for user actions
+- Importance of placing elements correctly within the grid structure
+
+---
+
+### Notes
+
+- Practiced translating instructions into code instead of copying
+- Used Emmet to speed up HTML structure
+- Improved understanding of Bootstrap layout vs custom CSS
