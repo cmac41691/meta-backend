@@ -115,3 +115,19 @@ and rely on frameworks for presentation
 - Practiced translating instructions into code instead of copying
 - Used Emmet to speed up HTML structure
 - Improved understanding of Bootstrap layout vs custom CSS
+
+
+
+
+## 2026-03-29
+
+### Completed
+- React intro topics + case study
+
+### Key Takeaways
+- Static vs dynamic content difference
+- SPA loads once and updates dynamically
+- React helps manage complex UI updates
+
+### Notes
+- Focused on understanding concepts instead of memorizing
