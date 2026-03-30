@@ -148,4 +148,4 @@ and rely on frameworks for presentation
 
 ### Notes
 - Focused on understanding how React manages updates
-- Saving knowledge check for next session
+- Saving knowledge check for next session  
