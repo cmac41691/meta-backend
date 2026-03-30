@@ -131,3 +131,21 @@ and rely on frameworks for presentation
 
 ### Notes
 - Focused on understanding concepts instead of memorizing
+
+## 2026-03-30
+
+### Completed
+- How React works
+- Virtual DOM
+- Component hierarchy
+- React + libraries
+
+### Key Takeaways
+- React uses components to structure UI
+- Virtual DOM improves performance by minimizing real DOM updates
+- Component hierarchy organizes UI into reusable pieces
+- React focuses on UI, not full application logic
+
+### Notes
+- Focused on understanding how React manages updates
+- Saving knowledge check for next session
