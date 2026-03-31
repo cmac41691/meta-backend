@@ -149,3 +149,24 @@ and rely on frameworks for presentation
 ### Notes
 - Focused on understanding how React manages updates
 - Saving knowledge check for next session  
+
+
+## 2026-03-31
+
+### Completed
+- Knowledge Check: Introduction to React (100%)
+- Module Summary: UI Frameworks
+- Module Quiz: UI Frameworks (87.5%)
+- Additional resources
+
+### Key Takeaways
+- React uses components to structure and manage UI
+- Virtual DOM improves performance by minimizing direct DOM updates
+- Single Page Applications update content without full reloads
+- UI frameworks simplify development through reusable components
+
+### Notes
+- Strong understanding of core React concepts (confirmed by knowledge check)
+- Quiz result (87.5%) shows good grasp with minor gaps to improve
+- Focused on understanding concepts rather than memorization
+- Will revisit weaker areas if needed before moving forward
