@@ -59,4 +59,21 @@
 
 ### Next Step
 - Complete final assessment
-- Move forward into deeper backend concepts (Meta Backend track)  
+- Move forward into deeper backend concepts (Meta Backend track)
+
+
+## 2026-04-03
+
+### Completed
+- Finished Meta Intro to Backend Development
+- Final Assignment: 90%
+- Bootstrap biographical page
+
+### Key Takeaways
+- Container → Row → Column structure controls layout
+- Debugging HTML structure (div placement) is critical
+- Bootstrap requires correct linking (CDN or file path)
+- Thinking in systems (like backend) helps frontend layout
+
+### Reflection
+This course reinforced my foundation in web structure. I approached layout like a system, similar to backend thinking, which helped me debug issues faster. 
